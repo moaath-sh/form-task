@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +10,21 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.up {
+  margin-top: 15%;
+  margin-left: 22%;
+}
+.b {
+  width: 50%;
+  margin-bottom: 2px;
+  
+}
+.orang {
+  background-color:rgba(234, 132, 43, 0.938) ;
+  color: black;
+}
+.orang:hover {
+  background-color:rgba(241, 116, 7, 0.752) ; ;
 }
